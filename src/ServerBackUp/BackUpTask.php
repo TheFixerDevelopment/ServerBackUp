@@ -1,6 +1,6 @@
 <?php
 
-
+namespace ServerBackUp;
 
 class BackUpTask extends PluginTask{
 	public function __construct(PluginBase $owner) {
