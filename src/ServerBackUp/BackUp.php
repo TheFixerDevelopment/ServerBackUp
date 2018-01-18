@@ -48,7 +48,7 @@ class BackUp extends Thread{
 		}
 	}
 
-	public function　run(){
+	public function run(){
 		$this->serverBackUp();
 		
 	}
